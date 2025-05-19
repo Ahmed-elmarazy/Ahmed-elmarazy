@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahmed
-**Mobile App Developer** | Passionate about building cross-platform apps with Flutter
+**Mobile App Developer** | Passionate about building mobile-apps with Flutter
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HLh1FkGtT/?mibextid=wwXIfr)
